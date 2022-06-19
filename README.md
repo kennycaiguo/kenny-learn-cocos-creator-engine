@@ -18,3 +18,4 @@ cocos creator 2.4 and 3.0
 # <a href="https://github.com/kennycaiguo/Archer-cocos2d-x">基于Cocos2d-x 3.8（C++版）的Android手机游戏，IDE使用VS2015；（源代码，资源，APK文件）</a>
 # <a href="https://github.com/kennycaiguo/cocos2d-x_FruitandBird">cocos2d-x 3.x游戏案例</a>
 # <a href="https://github.com/lihuilai/CocosCreatorChatForPomelo">cocos creator chat client and pomelo server</a>
+# <a href="https://github.com/cocos/cocos-docs">Cocos creator 3.x教程</a>
