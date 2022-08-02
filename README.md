@@ -20,3 +20,4 @@ cocos creator 2.4 and 3.0
 # <a href="https://github.com/kennycaiguo/cocos2d-x_FruitandBird">cocos2d-x 3.x游戏案例</a>
 # <a href="https://github.com/lihuilai/CocosCreatorChatForPomelo">cocos creator chat client and pomelo server</a>
 # <a href="https://github.com/cocos/cocos-docs">Cocos creator 3.x教程</a>
+# <a href="https://github.com/manshuoquan/CocosCreatorBook">《Cocos Creator游戏实战开发》项目实例和后续更新勘误文档</a>
