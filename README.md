@@ -23,7 +23,7 @@ cocos creator 2.4 and 3.0
 # <a href="https://github.com/manshuoquan/CocosCreatorBook">《Cocos Creator游戏实战开发》项目实例和后续更新勘误文档</a>
 # <a href="https://github.com/cocos/cocos-example-dark-slash">暗黑斩游戏</a>
 # <a href="https://github.com/dalinaum/chukong-cocos-docs/tree/master/tutorial/framework/html5/parkour-game-with-javascript">parkour-game-with-javascript</a>
-# <a href=""></a>
+# <a href="http://www.downcc.com/soft/496293.html">spine pro专业激活版 v3.8.75 最新版</a>
 # <a href=""></a>
 # <a href=""></a>  
 # <a href=""></a>
